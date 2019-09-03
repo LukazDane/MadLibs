@@ -21,7 +21,7 @@ def madLibs():
     # Start the game
 
     print("You awake in a dimly lit room... \n As you look around you notice it appears to be a waiting room of sorts.\n There are no doors or windows as far as you can tell.\n You feel nothing but a stiff cold breeze that appears to be coming from all directions.\n The corners of the room seem darker than the rest.\n Almost as if the walls are ovrlapping eachother and folding into a space behind themselves. Where am I?\n ")
-    print("A voice behiind you speaks, soft but heavy...\n \"Hello again, You've been here quite a while........\" \n ..... \n .... \n ...\n ..\n .")
+    print("A voice behiind you speaks, soft but heavy...\n \"Hello again, You've been here quite a while........ \n haven't you?\"")
 
 
 # Display story with blanks
