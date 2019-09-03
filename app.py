@@ -1,4 +1,12 @@
 # Attempt 3 - Starting over because I was doing way to much.
+#-----------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------------------------------#
+# Sites used for help/reference                                                                             #
+# https://developer.rhino3d.com/guides/rhinopython/python-statements/                                       #
+# https://www.w3resource.com/python/python-format.php                                                       #
+# Also discussed various project solutions with Megan O'Bryan, Chris Barnes, Kye Williams and Audi Blades.  #
+#-----------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------------------------------#
 
 # Create a list of words [required]
 words_list = list()
